@@ -21,7 +21,7 @@ nav{
     display: flex;
     justify-content: space-between;
     height: 45px;
-    background-color: coral;
+    background-color: #b99b7d;
     box-shadow: 2px 2px 12px rgb(83, 82, 82); 
 }
 
@@ -33,7 +33,7 @@ nav ul{
 nav ul li a{
     margin: 20px;
     font-family: myriad pro regular;
-    color:rgb(175, 102, 102);
+    color:#dfdfdf;
     font-size: 15px;
     font-weight: 700;
 }
@@ -68,7 +68,7 @@ nav a .active{
 
 /* start style rounded image */
 .rounded{
-    margin: 100px;
+    margin: 150px;
 }
 
 .rounded img{
